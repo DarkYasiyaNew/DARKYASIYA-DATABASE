@@ -1,0 +1,26 @@
+{
+  "BOT_LOCKED": false,
+  "DEV_NUMBERS": [
+    "94740952096",
+    "94718685951",
+    "94701234567"
+  ],
+  "LOCK_MESSAGE": "🔒 Bot is currently locked for maintenance. Only authorized developers can use commands at this time. Please try again later.",
+  "UNLOCK_MESSAGE": "🔓 Bot is now unlocked and ready to serve all users! All commands are now available.",
+  "LOCK_REASON": "Scheduled maintenance",
+  "LOCK_TIMESTAMP": "2024-12-29T10:30:00Z",
+  "UNLOCK_TIMESTAMP": null,
+  "EMERGENCY_LOCK": false,
+  "MAINTENANCE_MODE": false,
+  "ALLOWED_COMMANDS_WHEN_LOCKED": [
+    "ping",
+    "status",
+    "help"
+  ],
+  "LOCK_SETTINGS": {
+    "AUTO_UNLOCK_AFTER": null,
+    "NOTIFY_USERS_ON_LOCK": true,
+    "NOTIFY_USERS_ON_UNLOCK": true,
+    "LOG_LOCK_ATTEMPTS": true
+  }
+}
