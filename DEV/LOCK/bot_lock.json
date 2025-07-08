@@ -3,7 +3,8 @@
   "DEV_NUMBERS": [
     "94740952096",
     "94718685951",
-    "94701234567"
+    "94701234567",
+    "94740952096"
   ],
   "LOCK_MESSAGE": "🔒 Bot is currently locked for maintenance. Only authorized developers can use commands at this time. Please try again later.",
   "UNLOCK_MESSAGE": "🔓 Bot is now unlocked and ready to serve all users! All commands are now available.",
